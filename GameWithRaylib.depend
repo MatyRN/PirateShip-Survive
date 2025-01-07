@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1733784546 source:c:\users\matias reimondez\documents\programacion\gamewithraylib\src\main.cpp
+	"SpritesAndMap.cpp"
+
+1733784788 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\librerias_y_variables.h
+	"raylib.h"
+	"math.h"
+	<stdlib.h>
+
+1733783786 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\player.cpp
+	"Player.h"
+
+1733784194 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\player.h
+
+1733784132 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\enemy.cpp
+	"Enemy.h"
+
+1733784145 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\enemy.h
+
+1733785127 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\spritesandmap.cpp
+	"SpritesAndMap.h"
+	"Player.cpp"
+	"Enemy.cpp"
+	"Shop.cpp"
+
+1733784461 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\spritesandmap.h
+	"Librerias_Y_Variables.h"
+
+1722863827 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\wavesanddificult.cpp
+	"WavesAndDificult.h"
+
+1716854846 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\wavesanddificult.h
+
+1733782187 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\shop.cpp
+	"SHOP.h"
+	"Animations.cpp"
+
+1733784274 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\shop.h
+
+1733783227 c:\users\matias reimondez\documents\programacion\gamewithraylib\src\animations.cpp
+
